@@ -47,6 +47,10 @@ body {
   color: #000;
 }
 
+.nav__link:hover {
+  color: #FF976B;
+}
+
 .header__title {
   font-weight: 500;
   font-size: 58px;
@@ -150,6 +154,10 @@ body {
   line-height: 20px;
 }
 
+.form__button:hover {
+  opacity: 0.7;
+}
+
 .form__label--checkbox {
   display: flex;
   justify-content: center;
@@ -221,6 +229,10 @@ body {
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+}
+
+.footer__link:hover {
+  color: #FFD6C5;
 }
 
 .footer__copyright {
